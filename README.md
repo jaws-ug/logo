@@ -14,10 +14,7 @@ JAWS-UG各支部のロゴです。
 <table style="text-align:center; line-height:1.3; font-size:0.9; color:#999;">
 <tr>
 	<td colspan="3">
-	
-	<img src="thumbs/thumb-base.png" width="160"><br>
-	ベース / base
-	</td>
+	<img src="thumbs/thumb-base.png" width="160"><p>ベース / base</p></td>
 </tr>
 <tr>
 	<td><img src="thumbs/thumb-E-JAWS.png" width="120"><p>E-JAWS</p></td>
@@ -26,11 +23,8 @@ JAWS-UG各支部のロゴです。
 </tr>
 <tr>
 	<td><img src="thumbs/thumb-beginner.png" width="120"><p>初心者支部 / beginner</p></td>
-	
 	<td><img src="thumbs/thumb-fukui.png" width="120"><p>福井支部 / fukui</p></td>
-	
 	<td><img src="thumbs/thumb-hamamatsu.png" width="120"><p>東海道と浜松支部<br> / hamamatsu</p></td>
-	
 </tr>
 <tr>
 	<td><img src="thumbs/thumb-hiroshima.png" width="120"><p>広島支部 / hiroshima</p></td>
