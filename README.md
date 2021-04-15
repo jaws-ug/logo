@@ -59,6 +59,11 @@ JAWS-UG各支部のロゴです。
 	<td><img src="thumbs/thumb-yamagata.png" width="120"><p>山形支部 / yamagata</p></td>
 	<td><img src="thumbs/thumb-yokohama.png" width="120"><p>横浜支部 / yokohama</p></td>
 </tr>
+<tr>
+	<td><img src="philippines/JAWSugPH - white.png" width="120"><p>JAWSugPH / Philippines</p></td>
+	<td></td>
+	<td></td>
+</tr>
 
 
 </table>
