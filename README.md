@@ -60,5 +60,10 @@ JAWS-UG各支部のロゴです。
 	<td><img src="thumbs/thumb-yokohama.png" width="120"><p>横浜支部 / yokohama</p></td>
 </tr>
 
+<tr>
+	<td><img src="thumbs/thumb-gametech.png" width="120"><p>GameTech専門支部</p></td>
+	<td></td>
+	<td></td>
+</tr>
 
 </table>
